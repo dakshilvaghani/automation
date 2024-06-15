@@ -1,1 +1,3 @@
-asdfaq
+requests
+pandas
+ipython
